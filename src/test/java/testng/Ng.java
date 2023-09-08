@@ -16,9 +16,6 @@ public class Ng {
 	public void j2() {
 	Reporter.log("case3",true);
 		System.out.println("welcome new project");
-		System.out.println("satheesh");
-	System.out.println("satheesh");
-	System.out.println("sathish143");
 	
 		
 	}
