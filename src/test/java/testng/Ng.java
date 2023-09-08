@@ -17,7 +17,8 @@ public class Ng {
 	Reporter.log("case3",true);
 		System.out.println("welcome new project");
 		System.out.println("satheesh");
-	System.out.println("satheesh");sathish
+	System.out.println("satheesh");
+	System.out.println("sathish143");
 	
 		
 	}
