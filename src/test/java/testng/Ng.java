@@ -15,6 +15,6 @@ public class Ng {
 	@Test
 	public void j2() {
 	Reporter.log("case3",true);
-		
+		System.out.println("jhdkjs");
 	}
 }
