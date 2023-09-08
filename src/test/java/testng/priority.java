@@ -12,6 +12,7 @@ public void c1() {
 @Test
 public void c2() {
 	Reporter.log("hello",true);
+	System.out.println(sathishhhhhhhh);
 }
 
 }
